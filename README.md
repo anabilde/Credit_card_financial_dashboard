@@ -5,7 +5,7 @@ Project Objective: To develop a comprehensive credit card weekly dashboard that
 Import data to SQL database: 1. Prepare CSV file
                               2. Create tables in SQL
                                 3. import CSV file into SQL
-Import SQL data to Power Bi: DAX Queries![image](https://github.com/anabilde/Credit_card_financial_dashboard/assets/169554366/5794f70d-48da-4f06-964e-0434d2cf61e9)
+Import SQL data to Power Bi: DAX Queries
 Create Dashboards: 1. https://github.com/anabilde/Credit_card_financial_dashboard/blob/main/Credit%20card%20Transaction%20Report.pdf
                    2. https://github.com/anabilde/Credit_card_financial_dashboard/blob/main/Credit%20card%20customer%20Report.pdf
 Important Project Insights: https://github.com/anabilde/Credit_card_financial_dashboard/blob/main/Project%20Insights.pdf
